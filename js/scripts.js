@@ -119,7 +119,7 @@
 let personalityByColor = confirm('What does your favorite color say about you. Continue to find out!');
 let userName = prompt('Let me introduce myself, I am Bit. I\'m the the little person that lives in your copmputer, what\'s your name?');
 let favColor = prompt(`Hi, ${userName} What is your favorite color?`, 'Red, blue, green, grey, yellow, white, purple, orange, black or brown.');
-switch(favColor) {
+switch(favColor.upperLowerCase()) { //normalizing the data: all entries will be lowercase
   case 'red':
     alert(`${userName}, according to Phsychology Today, those who love red live life to the fullest and are tenacious and determined in their endeavors. `)
     break;
