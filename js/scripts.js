@@ -19,14 +19,14 @@ confirm(favMovie + year);*/
 
 
 
-let userFirstName = prompt('What is your first name?')
-let userLastName = prompt('What is your last name?')
-let birthday = prompt('When is your birthday?')
-
-console.log(userFirstName)
-
-alert(userLastName)
-alert(birthday)
+// let userFirstName = prompt('What is your first name?')
+// let userLastName = prompt('What is your last name?')
+// let birthday = prompt('When is your birthday?')
+//
+// console.log(userFirstName)
+//
+// alert(userLastName)
+// alert(birthday)
 
 
 // var myName = "Ryeker";
