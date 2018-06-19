@@ -1,0 +1,19 @@
+#red-text {
+  color: #ff0000;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.blue-background {
+  background-color: blue;
+  height: 300px;
+  width: 400px;
+}
+
+.green-background {
+  background-color: green;
+  height: 300px;
+  width: 400px;
+}
